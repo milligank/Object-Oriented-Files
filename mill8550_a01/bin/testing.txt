@@ -1,0 +1,63 @@
+/**
+@author
+Kathleen Milligan
+160458550
+@version
+JavaSE 1.8
+@date
+17-01-2018
+*/
+
+----------------------------------------
+
+
+pig latin 
+
+Enter word or words: 
+katie is amazing
+atiekay isay amazingay
+
+Enter word or words: 
+oliver standitch
+oliveray tanditchsay
+
+
+-------------------------------
+
+device 
+
+Enter days (0 to quit): 18632
+input days: 18632
+in year: 2031
+Enter days (0 to quit): 164
+input days: 164
+in year: 1980
+Enter days (0 to quit): 167
+input days: 167
+in year: 1980
+Enter days (0 to quit): 367
+input days: 367
+in year: 1981
+Enter days (0 to quit): 12345
+input days: 12345
+in year: 2013
+Enter days (0 to quit): 0
+
+-----------------------------
+
+child height
+
+Enter child gender (M/F): F
+Enter 'feet' for feet or 'inches' for inches: feet
+Enter Mothers height: 5.7
+Enter Fathers height: 6.1
+your child is estimated to grow: 5.7 feet
+Do you want to continue? (Y/N): 
+Y
+Enter child gender (M/F): M
+Enter 'feet' for feet or 'inches' for inches: inches
+Enter Mothers height: 46
+Enter Fathers height: 58
+your child is estimated to grow: 53.9 inches
+Do you want to continue? (Y/N): 
+N
